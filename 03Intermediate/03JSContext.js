@@ -37,10 +37,3 @@ if (myName === window.myName) {
 
 //TODO: context will helps to understand the weirdness of javascript.
 
-/*
-TODO:
-There are two main types of contexts in javascript:
-1. global ---> collecting information for everything and about anything
-2. One that is excuting right now
-
-*/
