@@ -30,7 +30,7 @@ for (const n in symbols) {
 // const means not constant values but constant refernece to a value.
 // change properties of an constant object but can NOT reassign object
 //change the elements of a constant array but can NOT reassign a constant array
-
+// https://medium.com/@ethannam/javascripts-memory-model-7c972cd2c239
 
 /* recalling hoisting:
    Hoisting is JavaScript's default behavior of moving all declarations 
