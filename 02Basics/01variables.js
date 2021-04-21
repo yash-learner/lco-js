@@ -17,3 +17,5 @@ console.log(paymentMode);
 
 // let var const
 
+// https://javascript.info/var
+
